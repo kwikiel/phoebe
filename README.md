@@ -12,7 +12,10 @@ S -> Analog input A0
 
 LCD:
 
-GND -> ground
-VCC -> 5v
-SDA -> Analog input A4
-SCL -> Analog input A5
+GND -> ground ; 
+
+VCC -> 5v ; 
+
+SDA -> Analog input A4 ;
+
+SCL -> Analog input A5 ;
